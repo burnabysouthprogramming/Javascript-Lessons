@@ -37,6 +37,13 @@ x += z * y;
 document.write(x);
 ```
 
+##Lesson 2 Archive:
+[2a. Variables & Data Types](https://github.com/burnabysouthprogramming/Javascript-Lessons/blob/master/Lesson-2/2a.%20Variables%20%26%20Data%20Types.md)
+
+[2b. Operators](https://github.com/burnabysouthprogramming/Javascript-Lessons/blob/master/Lesson-2/2b.%20Operators.md)
+
+[Exercises](https://github.com/burnabysouthprogramming/Javascript-Lessons/blob/master/Lesson-2/Exercises.md)
+
 ##Resources (Used From)
 * [W3Schools] (http://www.w3schools.com/js/js_assignment.asp)
 * [TutorialsPoint] (https://www.tutorialspoint.com/javascript/javascript_operators.htm)
