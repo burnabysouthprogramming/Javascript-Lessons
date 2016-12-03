@@ -1,20 +1,26 @@
 #Exercises
+1. Make a blank HTML page with Javascript ```<script></script>``` in the body. Or add onto a previous one and change the innerHTML of an ```id```ed item.
+2. Create a program that prints the radius and diameter of a cylinder. Afterwards, it should calculate the __volume__ and __surface area__ of the cylinder with that radius. Print the volume and area to the screen by changing the innerHTML of an ```id```ed item
 
+You will need a variable for radius, diameter, area, and volume __at the very least__. You will also need to make a variable for pi, in this case, you can create a variable with the value of 3.14. Review output methods from last lesson if you forgot how innerHTML works.
 
 ##Practice Concept Questions
 1. What is the output of:
+
 ```js
 var x = 16 + 4 + "Volvo";
 document.write(x);
 ```
 
 2. What is the output of:
+
 ```js
 var x = "Volvo" + 16 + 4;
 document.write(x);
 ```
 
 3. What is the output of:
+
 ```js
 var z = 5;
 var x = z % 2;
@@ -22,6 +28,7 @@ document.write(x);
 ```
 
 4. What is the output of:
+
 ```js
 var z = 5;
 var y = 10;
